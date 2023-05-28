@@ -184,4 +184,4 @@ db.collection.find({ field: { $in: [value1, value2, ...] } })
 db.collection.find({ field: { $nin: [value1, value2, ...] } })
 </details># l2a2-mongoose-assignment-2-rubelrana123
 #   M o n g o o s e _ T y p e s c p i p t  
- 
+ # Mongoose_Typescpipt
